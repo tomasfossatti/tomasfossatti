@@ -21,6 +21,12 @@ Trabajo sobre una idea simple: el aprendizaje deja rastros. Si los capturás bie
 
 Respuesta automática de mensajes, propuestas personalizadas y contenido con agentes, para dueños de negocios físicos que quieren presencia digital sin sumar trabajo manual.
 
+| Proyecto | Qué resuelve |
+|---|---|
+| [**BrandOS**](https://github.com/tomasfossatti/brandos-v2) | Sistema para gestionar varias marcas de clientes: estrategia, calendario editorial y producción de contenido con IA. Next.js, Supabase. |
+| [**Prospector B2B**](https://github.com/tomasfossatti/prospecter-suite-v2) | Prospección comercial por WhatsApp, auditoría de presencia digital y copiloto con IA. Node.js, Gemini. |
+| [**Tempiax overlay**](https://github.com/tomasfossatti/tempiax-overlay) | Parche de marca y traducción al español sobre [DeskcommCRM](https://github.com/melgarafael/DeskcommCRM), un CRM open source de otro autor. Solo mis cambios. |
+
 ## Stack
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
